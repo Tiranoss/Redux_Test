@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Redux_Test/static/css/main.8af2b2e3.chunk.css",
+    "main.js": "/Redux_Test/static/js/main.7690a703.chunk.js",
+    "main.js.map": "/Redux_Test/static/js/main.7690a703.chunk.js.map",
+    "runtime-main.js": "/Redux_Test/static/js/runtime-main.4c4b9dec.js",
+    "runtime-main.js.map": "/Redux_Test/static/js/runtime-main.4c4b9dec.js.map",
+    "static/css/2.43b2b750.chunk.css": "/Redux_Test/static/css/2.43b2b750.chunk.css",
+    "static/js/2.aeb7ea09.chunk.js": "/Redux_Test/static/js/2.aeb7ea09.chunk.js",
+    "static/js/2.aeb7ea09.chunk.js.map": "/Redux_Test/static/js/2.aeb7ea09.chunk.js.map",
+    "static/js/3.9d1e6aac.chunk.js": "/Redux_Test/static/js/3.9d1e6aac.chunk.js",
+    "static/js/3.9d1e6aac.chunk.js.map": "/Redux_Test/static/js/3.9d1e6aac.chunk.js.map",
+    "index.html": "/Redux_Test/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/Redux_Test/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.8af2b2e3.chunk.css.map": "/Redux_Test/static/css/main.8af2b2e3.chunk.css.map",
+    "static/js/2.aeb7ea09.chunk.js.LICENSE.txt": "/Redux_Test/static/js/2.aeb7ea09.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c4b9dec.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.aeb7ea09.chunk.js",
+    "static/css/main.8af2b2e3.chunk.css",
+    "static/js/main.7690a703.chunk.js"
+  ]
+}
